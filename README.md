@@ -1,7 +1,7 @@
 # Scraper for tradeshows
 
  GOAL : 
- -------
+-------
 Get the list of profile of exhibitors at a tradeshow.
 
 I typically use it either:
